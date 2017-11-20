@@ -8,7 +8,7 @@ Given a CSV file with a column of search terms, this simple Python 3 application
 * [Overview](overview)
 * [Installation](installation)
 * [Usage](usage)
-* License(license)
+* [License](license)
 
 ## Overview
 
